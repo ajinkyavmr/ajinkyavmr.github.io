@@ -2816,7 +2816,8 @@ input, select, textarea {
 			border-bottom: 0;
 			color: inherit;
 			font-weight: 900;
-			letter-spacing: 0.35em;
+			font-size: 2.4em;
+			letter-spacing: 0.2em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
 			text-transform: uppercase;
@@ -2834,8 +2835,8 @@ input, select, textarea {
 
 				#header .logo .symbol img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 2.5em;
+					height: 2.5em;
 				}
 
 		#header nav {
